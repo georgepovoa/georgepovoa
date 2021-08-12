@@ -3,21 +3,21 @@
 ## Cursando Análise e desenvolvimento de Sistemas 
 
 ### Projeto em Python -> Kamaleao_kivy 
-##### Habilidades desenvolvidas :
-##### Pandas
-##### SQLite
-##### MatplotLib
-##### KIVY ( GUI )
+#####  Habilidades desenvolvidas :
+##### * Pandas
+##### * SQLite
+##### * MatplotLib
+##### * KIVY ( GUI )
 
 ### Projeto em Node.js/ React -> georgepovoa/xtema 
 ###### http://xstemas.herokuapp.com/
 ##### Habilidades desenvolvidas :
-##### MongoDB (Banco de dados)
-##### Express (backend-api)
-##### API
-##### Multer (File-upload)
-##### CORS (Comunicação server-client)
-##### HEROKU (Deploy)
+##### * MongoDB (Banco de dados)
+##### * Express (backend-api)
+##### * API
+##### * Multer (File-upload)
+##### * CORS (Comunicação server-client)
+##### * HEROKU (Deploy)
 
 ##### Projeto em Angular :
 
