@@ -9,7 +9,7 @@
 ##### MatplotLib
 ##### KIVY ( GUI )
 
-### Projeto em Node.js/ React 
+### Projeto em Node.js/ React -> georgepovoa/xtema 
 ###### http://xstemas.herokuapp.com/
 ##### Habilidades desenvolvidas :
 ##### MongoDB (Banco de dados)
