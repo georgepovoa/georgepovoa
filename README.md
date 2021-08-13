@@ -21,6 +21,7 @@
 ##### Habilidades desenvolvidas :
 ##### * MongoDB como Banco de dados.
 ##### * Express para gerenciar o back end, disponibilizar a api necessária para a aplicação.
+##### * React para o desenvolvimento do back end
 ##### * API para a comunicação com o front end.
 ##### * Multer para possibilitar e facilitar o upload de arquivos.
 ##### * CORS  para possibilitar a comunicação server-client.
