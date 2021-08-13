@@ -1,6 +1,8 @@
 # George Póvoa Lacerda de Araújo
-## No momento aprendendo diversas áreas e linguagens até encontrar uma área de especialização
-## Cursando Análise e desenvolvimento de Sistemas 
+### Cursando Análise e desenvolvimento de Sistemas
+#### Formado em Educação Física
+
+### No momento aprendendo diversas áreas ! 
 
 ### Projeto em Python -> Kamaleao_kivy 
 #####  Habilidades desenvolvidas :
