@@ -37,6 +37,11 @@
 ###### Em desenvolvimento/estudo
 
 
+### Resumo pessoal : 
+
+#### Inicando na área da programação! Por ser professor por 6 anos, desenvolvi bastante habilidades como comunicação, liderança, planejamento, trabalho em equipe e habilidade de repassar conhecimento.Com 23 anos comecei a estudar programação por curiosidade e me apaixonei pela área, sempre curti e tive muito contato com tecnologia e jogos mas escrever código era muito abstrato porém ao ter contato com python percebi que era possível aprender, quanto mais aprendia mais vontade tinha de ficar melhor e acabei decidindo sair da Educação Física para entrar de cabeça na programação. Ainda não sou, mas tenho certeza que vou ser um profissional de referencia nacional.
+
+
 
 <!---
 georgepovoa/georgepovoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
