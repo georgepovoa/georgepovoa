@@ -32,7 +32,7 @@
 ##### * HEROKU para hospedar o projeto em teste.
 
 
-### Projeto em Django/ React -> georgepovoa/xtema()
+### Projeto em Django/ React -> ()
 ####Ainda em desenvolvimento
 
 
