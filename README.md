@@ -31,14 +31,12 @@
 ##### * CORS  para possibilitar a comunicação server-client.
 ##### * HEROKU para hospedar o projeto em teste.
 
-##### Projeto em Angular : (https://github.com/georgepovoa/Angular)
 
-###### Em desenvolvimento / estudo
+### Projeto em Django/ React -> georgepovoa/xtema()
+####Ainda em desenvolvimento
 
 
-##### API em Java : 
 
-###### Em desenvolvimento/estudo
 
 
 
