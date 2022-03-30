@@ -9,7 +9,6 @@
 
 #### Inicando na área da programação! Por ser professor por 6 anos, desenvolvi bastante habilidades como comunicação, liderança, planejamento, trabalho em equipe e habilidade de repassar conhecimento.Com 23 anos comecei a estudar programação por curiosidade e me apaixonei pela área, sempre gostei e tive muito contato com tecnologia e jogos mas escrever código era muito abstrato porém ao ter contato com python percebi que era possível aprender, quanto mais aprendia mais vontade tinha de ficar melhor e acabei decidindo sair da Educação Física para entrar de cabeça na programação. Ainda não sou, mas tenho certeza que vou ser um profissional de referencia.
 
-
 ### Projeto em FastApi
 #### Ainda em desenvolvimento
 #### https://webapp-startup-xuxu-luka.herokuapp.com/docs
@@ -34,27 +33,6 @@
 ##### * SQLite como banco de dados.
 ##### * MatplotLib para gerar o gráfico referente à porcentagem de estoque com as cores especificadas no banco de dados.
 ##### * KIVY para criar a interface gráfica, escolha feita pela possibilidade de multiplataforma.
-
-### Projeto em Node.js/ React -> georgepovoa/xtema (http://xstemas.herokuapp.com/)
-##### Objetivo :
-##### Projeto em desenvolvimento. Feito para controlar e consultar anexos de processos públicos.  
-###### Sistema atual não possui ferramenta de busca por palavras chaves, o projeto tem como objetivo suprir essa necessidade.
-##### Habilidades desenvolvidas :
-##### * MongoDB como Banco de dados.
-##### * Express para gerenciar o back end, disponibilizar a api necessária para a aplicação.
-##### * React para o desenvolvimento do front end
-##### * API para a comunicação com o front end.
-##### * Multer para possibilitar e facilitar o upload de arquivos.
-##### * CORS  para possibilitar a comunicação server-client.
-##### * HEROKU para hospedar o projeto em teste.
-
-
-
-
-
-
-
-
 
 
 
