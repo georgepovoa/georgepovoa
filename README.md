@@ -12,12 +12,14 @@
 ### Projeto em FastApi
 #### Ainda em desenvolvimento
 #### https://webapp-startup-xuxu-luka.herokuapp.com/docs
+#### https://github.com/georgepovoa/heroku_fastapi
 #### Com base na constituição federal de 88
 #### Para mais informações entrar em contato.
 
-### Projeto em Django/React -> (https://github.com/georgepovoa/webapp_xuxu_luka_stup)
-
+### Projeto em Django/React
 #### Ainda em desenvolvimento
+#### https://webapp-startup-xuxu-luka.herokuapp.com/
+#### https://github.com/georgepovoa/webapp_xuxu_luka_stup
 
 #### Para mais informações entrar em contato.
 
