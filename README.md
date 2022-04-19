@@ -16,8 +16,9 @@
 #### Para mais informações entrar em contato.
 
 ### Projeto em Django/React -> (https://github.com/georgepovoa/webapp_xuxu_luka_stup)
+
 #### Ainda em desenvolvimento
-#### Ainda não feito deploy por conta da transição de banco de dados
+
 #### Para mais informações entrar em contato.
 
 
