@@ -11,7 +11,7 @@
 
 ### Projeto em FastApi
 #### Ainda em desenvolvimento
-#### https://webapp-startup-xuxu-luka.herokuapp.com/docs
+#### https://api-startup-luka-xuxu.herokuapp.com/docs
 #### https://github.com/georgepovoa/heroku_fastapi
 #### Com base na constituição federal de 88
 #### Para mais informações entrar em contato.
