@@ -3,27 +3,25 @@
 #### Formado em Educação Física
 #### Contato - (61)981961868
 
-### No momento aprendendo diversas áreas ! 
+### No momento estudando diversas áreas ! 
 
 ### Resumo pessoal : 
 
-#### Inicando na área da programação! Por ser professor por 6 anos, desenvolvi bastante habilidades como comunicação, liderança, planejamento, trabalho em equipe e habilidade de repassar conhecimento.Com 23 anos comecei a estudar programação por curiosidade e me apaixonei pela área, sempre gostei e tive muito contato com tecnologia e jogos mas escrever código era muito abstrato porém ao ter contato com python percebi que era possível aprender, quanto mais aprendia mais vontade tinha de ficar melhor e acabei decidindo sair da Educação Física para entrar de cabeça na programação. Ainda não sou, mas tenho certeza que vou ser um profissional de referencia.
+#### Com 23 anos comecei a estudar programação por curiosidade e me apaixonei pela área.
+#### Por ser professor por 6 anos, desenvolvi bastante habilidade com comunicação, liderança, planejamento e trabalho em equipe.
+
+### Projetos mais relevantes.
 
 ### Projeto em FastApi
 #### Ainda em desenvolvimento
 #### https://api-startup-luka-xuxu.herokuapp.com/docs
 #### https://github.com/georgepovoa/heroku_fastapi
-#### Com base na constituição federal de 88
-#### Para mais informações entrar em contato.
+#### Com base na constituição federal de 88.
 
 ### Projeto em Django/React
 #### Ainda em desenvolvimento
 #### https://webapp-startup-xuxu-luka.herokuapp.com/
 #### https://github.com/georgepovoa/webapp_xuxu_luka_stup
-
-#### Para mais informações entrar em contato.
-
-
 
 
 
