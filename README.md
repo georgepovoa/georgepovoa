@@ -5,12 +5,12 @@
 
 ### No momento estudando diversas áreas ! 
 
-### Resumo pessoal : 
+## Resumo pessoal : 
 
 #### Com 23 anos comecei a estudar programação por curiosidade e me apaixonei pela área.
 #### Por ser professor por 6 anos, desenvolvi bastante habilidade com comunicação, liderança, planejamento e trabalho em equipe.
 
-### Projetos mais relevantes.
+## Projetos mais relevantes.
 
 ### Projeto em FastApi
 #### Ainda em desenvolvimento
