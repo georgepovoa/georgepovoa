@@ -25,15 +25,16 @@
 
 
 
-### Projeto em Python -> Kamaleao_kivy (https://github.com/georgepovoa/kamaleao_kivy) 
-##### Feito para uma fábrica de tintas
-##### Objetivo : 
-###### Criar um software para gerenciar o estoque de pigmentos, com métricas de controle como : estoque mínimo, emergencial, Média de consumo diário e previsão de tempo que o estoque consegue suprir a demanda.
-#####  Habilidades desenvolvidas :
-##### * Pandas para a coleta, tratamento e transferencia de dados.
-##### * SQLite como banco de dados.
-##### * MatplotLib para gerar o gráfico referente à porcentagem de estoque com as cores especificadas no banco de dados.
-##### * KIVY para criar a interface gráfica, escolha feita pela possibilidade de multiplataforma.
+
+#### Projeto em Python -> Kamaleao_kivy (https://github.com/georgepovoa/kamaleao_kivy) 
+###### Feito para uma fábrica de tintas
+###### Objetivo : 
+####### Criar um software para gerenciar o estoque de pigmentos, com métricas de controle como : estoque mínimo, emergencial, Média de consumo diário e previsão de tempo que o estoque consegue suprir a demanda.
+######  Habilidades desenvolvidas :
+###### * Pandas para a coleta, tratamento e transferencia de dados.
+###### * SQLite como banco de dados.
+###### * MatplotLib para gerar o gráfico referente à porcentagem de estoque com as cores especificadas no banco de dados.
+###### * KIVY para criar a interface gráfica, escolha feita pela possibilidade de multiplataforma.
 
 
 
