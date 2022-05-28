@@ -28,7 +28,7 @@
 
 
 ### Projeto em Python -> Kamaleao_kivy (https://github.com/georgepovoa/kamaleao_kivy) 
-##### Projeto em desenvolvimento. Feito para uma fábrica de tintas
+##### Feito para uma fábrica de tintas
 ##### Objetivo : 
 ###### Criar um software para gerenciar o estoque de pigmentos, com métricas de controle como : estoque mínimo, emergencial, Média de consumo diário e previsão de tempo que o estoque consegue suprir a demanda.
 #####  Habilidades desenvolvidas :
