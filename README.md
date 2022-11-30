@@ -1,14 +1,14 @@
 # George Póvoa Lacerda de Araújo
-### Cursando Análise e desenvolvimento de Sistemas
+### Formado em Análise e desenvolvimento de Sistemas
 ##### Formado em Educação Física
 #### Contato - (61)981961868
 
-### No momento estudando diversas áreas ! 
+### No momento estou aprofundando meu conhecimento em desenvolvimento Full Stack ! 
 
 ## Resumo pessoal : 
 
 #### 3 anos atrás comecei a estudar programação por curiosidade e me apaixonei pela área.
-#### Por ser professor por 6 anos, desenvolvi bastante habilidade com comunicação, liderança, planejamento e trabalho em equipe e hoje estou buscando uma oportunidade para aplicar esses conhecimentos dentro do campo da tecnologia. 
+#### Por ser professor por 6 anos, desenvolvi minha habilidade com comunicação, liderança, planejamento e trabalho em equipe e hoje estou buscando uma oportunidade para aplicar esses conhecimentos dentro do campo da tecnologia. 
 
 ## Projetos mais relevantes.
 
@@ -23,18 +23,6 @@
 #### link para aplicação -> https://webapp-startup-xuxu-luka.herokuapp.com/
 #### Repositório -> https://github.com/georgepovoa/webapp_xuxu_luka_stup
 
-
-
-
-#### Projeto em Python -> Kamaleao_kivy (https://github.com/georgepovoa/kamaleao_kivy) 
-###### Feito para uma fábrica de tintas
-###### Objetivo : 
-###### Criar um software para gerenciar o estoque de pigmentos, com métricas de controle como : estoque mínimo, emergencial, Média de consumo diário e previsão de tempo que o estoque consegue suprir a demanda.
-######  Habilidades desenvolvidas :
-###### * Pandas para a coleta, tratamento e transferencia de dados.
-###### * SQLite como banco de dados.
-###### * MatplotLib para gerar o gráfico referente à porcentagem de estoque com as cores especificadas no banco de dados.
-###### * KIVY para criar a interface gráfica, escolha feita pela possibilidade de multiplataforma.
 
 
 
