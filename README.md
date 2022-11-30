@@ -7,8 +7,8 @@
 
 ## Resumo pessoal : 
 
-#### Com 23 anos comecei a estudar programação por curiosidade e me apaixonei pela área.
-#### Por ser professor por 6 anos, desenvolvi bastante habilidade com comunicação, liderança, planejamento e trabalho em equipe.
+#### 3 anos atrás comecei a estudar programação por curiosidade e me apaixonei pela área.
+#### Por ser professor por 6 anos, desenvolvi bastante habilidade com comunicação, liderança, planejamento e trabalho em equipe e hoje estou buscando uma oportunidade para aplicar esses conhecimentos dentro do campo da tecnologia. 
 
 ## Projetos mais relevantes.
 
