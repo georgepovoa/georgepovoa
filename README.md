@@ -10,20 +10,6 @@
 #### 3 anos atrás comecei a estudar programação por curiosidade e me apaixonei pela área.
 #### Por ser professor por 6 anos, desenvolvi minha habilidade com comunicação, liderança, planejamento e trabalho em equipe e hoje estou buscando uma oportunidade para aplicar esses conhecimentos dentro do campo da tecnologia. 
 
-## Projetos mais relevantes.
-
-### Projeto em FastApi
-#### Ainda em desenvolvimento
-#### link para aplicação -> https://api-startup-luka-xuxu.herokuapp.com/docs
-#### Repositório -> https://github.com/georgepovoa/heroku_fastapi
-#### Com base na constituição federal de 88.
-
-### Projeto em Django/React
-#### Ainda em desenvolvimento
-#### link para aplicação -> https://webapp-startup-xuxu-luka.herokuapp.com/
-#### Repositório -> https://github.com/georgepovoa/webapp_xuxu_luka_stup
-
-
 
 
 <!---
